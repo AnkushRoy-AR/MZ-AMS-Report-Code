@@ -1,0 +1,53 @@
+Today's Date as String = 20210930000000
+Tomorrow's Date as String = 20211001000000
+API Schedule: http://m2tida04.mnao.net:8080/api/tes-6.5/Schedules.getList?query=(productiondateasstring=20211001000000)
+API Schedule: http://m2tida04.mnao.net:8080/api/tes-6.5/JobRun.getList?query=(productiondateasstring=20211001000000%20and%20type%20in%20(2,6))
+API Connections: http://m2tida04.mnao.net:8080/api/tes-6.5/Node.getList
+No of elements for schedule: 1
+Total no adhoc of jobs in schedule tab: 0
+Total no of scheduled jobs in schedule tab: 52
+Total no of all jobs in schedule tab adhoc(0) + scheduled(52): 52
+No of jobs from JobRun: 52
+No of Connections: 63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mail successfully sent
